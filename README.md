@@ -1,6 +1,4 @@
-# GPU-Graph-Accelerator
-
-# 🚀 GPU-Accelerated PageRank
+# 🚀 GPU-Graph-Accelerator
 
 This project implements **PageRank** on graphs of up to **1000 vertices** using three approaches:
 1. **Single-threaded CPU** (baseline)  
